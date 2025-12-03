@@ -8,6 +8,7 @@
 
 ## 目录结构
 - `docs/PRD-v2.md`：产品方案 v2
+- `docs/PRD-full.md`：完整、可直接进入开发的 PRD + 技术方案
 - `docs/tech-design.md`：技术设计
 - `docs/architecture.md`：架构与数据流
 - `src/autodeploy/`：解析器、环境计划、错误引擎与 CLI
